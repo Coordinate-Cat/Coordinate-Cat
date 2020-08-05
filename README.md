@@ -1,6 +1,6 @@
 ### WELCOME TO MY BASE!! 🥟
 
-[hangs:(https://hangs.vercel.app/)](https://hangs.vercel.app/)<br>
+hangs(https://hangs.vercel.app/)<br>
 [catjp@protonmail.ch](catjp@protonmail.ch)
 
 ---
