@@ -8,6 +8,7 @@
 ░╚════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░░░░░░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░
 
 ```
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 ### System & Browser
 
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
