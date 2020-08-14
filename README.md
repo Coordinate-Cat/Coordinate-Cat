@@ -11,8 +11,9 @@
 
 ### System & Browser
 
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
+![VS Code](https://img.shields.io/badge/Setup-Dotfiles-292e33?style=flat-square&logo=when-i-work&logoColor=fff)
 
 ![Chrome](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
 ![Safari](https://img.shields.io/badge/BROWSER-Safari-292e33?style=flat-square&logo=safari)
