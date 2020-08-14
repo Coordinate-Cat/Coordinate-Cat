@@ -37,7 +37,6 @@
 
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Rollup](https://img.shields.io/badge/_-Rollup-292e33?style=flat-square&logo=rollup.js&logoColor=white)
-![npm](https://img.shields.io/badge/_-NPM-292e33?style=flat-square&logo=npm&logoColor=white)
 
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![netlify](https://img.shields.io/badge/_-netlify-292e33?style=flat-square&logo=netlify&logoColor=fff)
