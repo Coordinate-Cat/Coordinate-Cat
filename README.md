@@ -8,6 +8,11 @@
 ░╚════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░░░░░░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░
 
 ```
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true"
+    alt="spotify" />
+</a>
 
 ### System & Browser
 
@@ -59,5 +64,3 @@
 ![Instagram](https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=Instagram&logoColor=fff)
 ![Spotify](https://img.shields.io/badge/_-Spotify-292e33?style=flat-square&logo=Spotify&logoColor=fff)
 ![Pinterest](https://img.shields.io/badge/_-Pinterest-292e33?style=flat-square&logo=Pinterest&logoColor=fff)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
