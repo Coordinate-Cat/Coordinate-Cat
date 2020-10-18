@@ -64,3 +64,6 @@
 ![Instagram](https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=Instagram&logoColor=fff)
 ![Spotify](https://img.shields.io/badge/_-Spotify-292e33?style=flat-square&logo=Spotify&logoColor=fff)
 ![Pinterest](https://img.shields.io/badge/_-Pinterest-292e33?style=flat-square&logo=Pinterest&logoColor=fff)
+
+This has been added 
+[here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
