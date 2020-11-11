@@ -1,13 +1,3 @@
-```
-
-░█████╗░░█████╗░░█████╗░██████╗░██████╗░██╗███╗░░██╗░█████╗░████████╗███████╗░░░░░░░█████╗░░█████╗░████████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║████╗░██║██╔══██╗╚══██╔══╝██╔════╝░░░░░░██╔══██╗██╔══██╗╚══██╔══╝
-██║░░╚═╝██║░░██║██║░░██║██████╔╝██║░░██║██║██╔██╗██║███████║░░░██║░░░█████╗░░█████╗██║░░╚═╝███████║░░░██║░░░
-██║░░██╗██║░░██║██║░░██║██╔══██╗██║░░██║██║██║╚████║██╔══██║░░░██║░░░██╔══╝░░╚════╝██║░░██╗██╔══██║░░░██║░░░
-╚█████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝██║██║░╚███║██║░░██║░░░██║░░░███████╗░░░░░░╚█████╔╝██║░░██║░░░██║░░░
-░╚════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚══════╝░░░░░░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░
-
-```
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true"
@@ -53,17 +43,8 @@
 
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
 ![Proton](https://img.shields.io/badge/_-Proton-292e33?style=flat-square&logo=protonmail&logoColor=fff)
-
-![Youtube](https://img.shields.io/badge/_-Youtube-292e33?style=flat-square&logo=youtube&logoColor=fff)
-![Twitch](https://img.shields.io/badge/_-Twitch-292e33?style=flat-square&logo=twitch&logoColor=fff)
-![Netflix](https://img.shields.io/badge/_-Netflix-292e33?style=flat-square&logo=netflix&logoColor=fff)
-![Netflix](https://img.shields.io/badge/_-Amazon-292e33?style=flat-square&logo=amazon&logoColor=fff)
-
 ![Twitter](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
-![reddit](https://img.shields.io/badge/_-reddit-292e33?style=flat-square&logo=reddit&logoColor=fff)
-![Instagram](https://img.shields.io/badge/_-Instagram-292e33?style=flat-square&logo=Instagram&logoColor=fff)
 ![Spotify](https://img.shields.io/badge/_-Spotify-292e33?style=flat-square&logo=Spotify&logoColor=fff)
-![Pinterest](https://img.shields.io/badge/_-Pinterest-292e33?style=flat-square&logo=Pinterest&logoColor=fff)
 
 This has been added 
 [here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
