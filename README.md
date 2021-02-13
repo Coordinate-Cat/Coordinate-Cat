@@ -15,7 +15,6 @@
 ![Chrome](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
 ![Safari](https://img.shields.io/badge/BROWSER-Safari-292e33?style=flat-square&logo=safari)
 ![Firefox](https://img.shields.io/badge/BROWSER-Firefox-292e33?style=flat-square&logo=firefox&logoColor=fff)
-![Tor](https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor)
 
 ### Stack & Skill
 
