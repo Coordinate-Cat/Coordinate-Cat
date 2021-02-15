@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/Coordinate-Cat?template=classic&stars=1&pagespeed=1&isocalendar=1&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=undefined&pagespeed.screenshot=undefined&stars.limit=4&config.timezone=Asia%2FTokyo&config.animated=true)
+![Metrics](https://metrics.lecoq.io/Coordinate-Cat?template=classic&activity=1&stars=1&pagespeed=1&languages=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&stars.limit=20&config.timezone=Asia%2FTokyo&config.animated=true)
 <!--
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
