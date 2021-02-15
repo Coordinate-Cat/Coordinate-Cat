@@ -32,6 +32,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: .user.website
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 20
