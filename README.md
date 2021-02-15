@@ -1,5 +1,4 @@
 ![Metrics](https://metrics.lecoq.io/Coordinate-Cat?template=classic&stars=1&pagespeed=1&isocalendar=1&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=undefined&pagespeed.screenshot=undefined&stars.limit=4&config.timezone=Asia%2FTokyo&config.animated=true)
-
 <!--
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
@@ -7,11 +6,9 @@
     alt="spotify" />
 </a>
 -->
-
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoordinate-Cat%2FCoordinate-Cat&count_bg=%23292E33&title_bg=%23787878&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 -->
-
 <!--
 ### System & Browser
 ![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)
