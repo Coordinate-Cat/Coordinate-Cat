@@ -1,50 +1,47 @@
+![Metrics](https://metrics.lecoq.io/Coordinate-Cat?template=classic&stars=1&pagespeed=1&isocalendar=1&activity=1&languages=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&pagespeed.url=.user.website&pagespeed.detailed=undefined&pagespeed.screenshot=undefined&stars.limit=4&config.timezone=Asia%2FTokyo&config.animated=true)
+
+<!--
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
     src="https://spotify-github-profile.vercel.app/api/view?uid=22tewzj3fbagkyozmhfeihg7i&cover_image=true"
     alt="spotify" />
 </a>
+-->
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoordinate-Cat%2FCoordinate-Cat&count_bg=%23292E33&title_bg=%23787878&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
 
+<!--
 ### System & Browser
-
 ![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/IDE-VSCode-292e33?style=flat-square&logo=Visual-studio-code&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/Setup-Dotfiles-292e33?style=flat-square&logo=when-i-work&logoColor=fff)
-
 ![Chrome](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
 ![Safari](https://img.shields.io/badge/BROWSER-Safari-292e33?style=flat-square&logo=safari)
 ![Firefox](https://img.shields.io/badge/BROWSER-Firefox-292e33?style=flat-square&logo=firefox&logoColor=fff)
-
 ### Stack & Skill
-
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
-
 ![HTML5](https://img.shields.io/badge/_-HTML5-292e33?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
 ![jQuery](https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/_-TypeScript-292e33?style=flat-square&logo=typescript&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/_-Vue.js-292e33?style=flat-square&logo=Vue.js&logoColor=fff)
 ![Svelte.js](https://img.shields.io/badge/_-Svelte-292e33?style=flat-square&logo=Svelte&logoColor=fff)
-
 ![Webpack](https://img.shields.io/badge/_-Webpack-292e33?style=flat-square&logo=webpack&logoColor=white)
 ![Rollup](https://img.shields.io/badge/_-Rollup-292e33?style=flat-square&logo=rollup.js&logoColor=white)
-
 ![Heroku](https://img.shields.io/badge/_-Heroku-292e33?style=flat-square&logo=heroku&logoColor=fff)
 ![netlify](https://img.shields.io/badge/_-netlify-292e33?style=flat-square&logo=netlify&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/_-vercel-292e33?style=flat-square&logo=vercel&logoColor=fff)
 ![firebase](https://img.shields.io/badge/_-firebase-292e33?style=flat-square&logo=firebase&logoColor=fff)
-
 ### Others
-
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
 ![Proton](https://img.shields.io/badge/_-Proton-292e33?style=flat-square&logo=protonmail&logoColor=fff)
 ![Twitter](https://img.shields.io/badge/_-Twitter-292e33?style=flat-square&logo=twitter&logoColor=fff)
 ![Spotify](https://img.shields.io/badge/_-Spotify-292e33?style=flat-square&logo=Spotify&logoColor=fff)
-
 This has been added 
 [here](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
+-->
