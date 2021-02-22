@@ -13,9 +13,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: Coordinate-Cat
