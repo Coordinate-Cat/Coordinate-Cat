@@ -1316,11 +1316,11 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="253.33 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    77
+                                    100
                                 </text>
                             </svg>
                             <span class="title">
@@ -2392,7 +2392,7 @@
                                             filiptronicek/filiptronicek
                                         </span>
                                         <span>
-                                            starred 9 hours ago
+                                            starred 10 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3258,7 +3258,7 @@
                     These metrics do not include all private contributions, timezone Asia/Tokyo
                 </span>
                 <span>
-                    Last updated Sat, 10 Apr 2021 21:07:05 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sat, 10 Apr 2021 22:06:11 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
