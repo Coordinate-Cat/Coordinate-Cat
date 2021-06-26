@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WICG/webhid</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattboldt/typed.js</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3085,7 +3085,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sat, 26 Jun 2021 15:23:54 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 26 Jun 2021 16:16:46 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
