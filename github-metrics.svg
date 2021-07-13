@@ -2463,7 +2463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>one-aalam/awesome-svelte-kit</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2500,7 +2500,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>line/headver</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3101,7 +3101,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Wed, 14 Jul 2021 01:33:04 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 14 Jul 2021 02:27:11 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
