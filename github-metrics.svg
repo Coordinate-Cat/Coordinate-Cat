@@ -1398,10 +1398,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="187.52999999999997 329"/>
+                                <text x="60" y="60" dominant-baseline="central">57</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2796,7 +2796,7 @@
                                             </svg>
                                             <div class="name">
                                                 <span>fengyuanchen/viewerjs</span>
-                                                <span>starred 17 days ago</span>
+                                                <span>starred 18 days ago</span>
                                             </div>
                                         </div>
                                         <div class="field description">
@@ -3117,7 +3117,7 @@
                     </section>
                     <footer>
                         <span>These metrics do not include all private contributions</span>
-                        <span>Last updated Wed, 21 Jul 2021 14:19:07 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
+                        <span>Last updated Wed, 21 Jul 2021 15:26:41 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
                     </footer>
                     <div id="metrics-end"></div>
                 </div>
