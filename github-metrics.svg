@@ -1416,8 +1416,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                                <text x="60" y="60" dominant-baseline="central">93</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -2442,7 +2442,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crate-ci/typos</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2484,7 +2484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mps-youtube/mps-youtube</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3090,7 +3090,7 @@
                     </section>
                     <footer>
                         <span>These metrics do not include all private contributions</span>
-                        <span>Last updated Fri, 23 Jul 2021 19:23:53 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
+                        <span>Last updated Fri, 23 Jul 2021 20:18:13 (timezone Asia/Tokyo) with lowlighter/metrics@3.10.0</span>
                     </footer>
                     <div id="metrics-end"></div>
                 </div>
