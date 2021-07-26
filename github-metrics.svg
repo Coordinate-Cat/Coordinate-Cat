@@ -1849,15 +1849,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.142857142857143)">
+                            <g transform="translate(-3.4, 7.571428571428571)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.142857142857142)">
+                            <g transform="translate(-5.1, 7.714285714285714)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mps-youtube/mps-youtube</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2578,7 +2578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nate-parrott/Flashlight</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2830,7 +2830,7 @@
                                             </svg>
                                             <div class="name">
                                                 <span>one-aalam/awesome-svelte-kit</span>
-                                                <span>starred 12 days ago</span>
+                                                <span>starred 13 days ago</span>
                                             </div>
                                         </div>
                                         <div class="field description">
@@ -3108,7 +3108,7 @@
                     </section>
                     <footer>
                         <span>These metrics do not include all private contributions</span>
-                        <span>Last updated 26/07/2021, 23:19 (timezone Asia/Tokyo) with lowlighter/metrics@3.11.0</span>
+                        <span>Last updated 27/07/2021, 00:24 (timezone Asia/Tokyo) with lowlighter/metrics@3.11.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
