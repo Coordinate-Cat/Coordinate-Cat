@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>morpheusthewhite/spicetify-themes</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2670,7 +2670,7 @@
                 </div>
                                 <div class="field infos">
                                     <div class="language">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ffac45" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       Swift
                     </div>
                                     <div>
@@ -3104,7 +3104,7 @@
                     </section>
                     <footer>
                         <span>These metrics do not include all private contributions</span>
-                        <span>Last updated 02/08/2021, 19:23 (timezone Asia/Tokyo) with lowlighter/metrics@3.11.0</span>
+                        <span>Last updated 02/08/2021, 20:18 (timezone Asia/Tokyo) with lowlighter/metrics@3.11.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
