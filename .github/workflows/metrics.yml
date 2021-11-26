@@ -21,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_padding: 8, 8 + 11%
+          config_padding: 20, 8 + 11%
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: detailed
