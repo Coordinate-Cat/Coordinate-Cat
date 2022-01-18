@@ -69,7 +69,7 @@ jobs:
           filename: lines.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          base: repositories
           plugin_lines: yes
           
       - name: pagespeed
