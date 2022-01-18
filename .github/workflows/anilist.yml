@@ -12,12 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      name: Favorites characters
-      uses: lowlighter/metrics@latest
-      with:
-        filename: anilist.svg
-        token: NOT_NEEDED
-        base: ""
-        plugin_anilist: yes
-        plugin_anilist_sections: characters
-        plugin_anilist_limit_characters: 22
+      - name: Favorites characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: characters, watching, reading, favorites
+          plugin_anilist_limit: 2 # キャラ以外の同時表示数
+          plugin_anilist_shuffle: yes # シャッフル
+          plugin_anilist_user: .user.login # ユーザ名がGitHubと揃っている場合はこれでいい
+          plugin_anilist_limit_characters: 22 # キャラ上限
