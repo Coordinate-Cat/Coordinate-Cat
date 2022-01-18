@@ -1,4 +1,4 @@
-name: right-metrics
+name: left-metrics
 on:
   schedule:
     - cron: "0 18 * * 0"
