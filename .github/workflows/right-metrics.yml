@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - name: Favorites characters
+      - name: Fav characters
         uses: lowlighter/metrics@latest
         with:
           filename: anilist.svg
@@ -36,7 +36,7 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
           
-      - name: Recent activity charts
+      - name: Charts
         uses: lowlighter/metrics@latest
         with:
           filename: charts.svg
@@ -46,3 +46,12 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Japan/Tokyo
+          
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
