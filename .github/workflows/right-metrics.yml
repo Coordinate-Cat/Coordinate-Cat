@@ -1,4 +1,4 @@
-name: Anilist
+name: right-metrics
 on:
   schedule:
     - cron: "0 18 * * 0"
@@ -25,3 +25,13 @@ jobs:
           plugin_anilist_shuffle: yes
           plugin_anilist_user: Ocat623
           plugin_anilist_limit_characters: 22
+          
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: icons.svg
+          token: ${{ secrets.METRICS }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
