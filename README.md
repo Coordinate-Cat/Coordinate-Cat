@@ -3,3 +3,4 @@
 <img align="left" width="390" alt="🦑" src="/github-metrics.svg">
 
 If you don't see the above svg, just reload a few times.
+![Metrics](https://github.com/あなたのGitHubユーザー名/あなたのGitHubユーザー名/blob/main/github-metrics.svg)
