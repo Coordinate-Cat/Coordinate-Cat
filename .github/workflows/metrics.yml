@@ -44,10 +44,10 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+#           plugin_pagespeed: yes
+#           plugin_pagespeed_url: .user.website
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: half-year
           plugin_lines: yes
           plugin_topics: yes
           plugin_topics_limit: 0
@@ -141,3 +141,14 @@ jobs:
 #           base: ""
 #           plugin_pagespeed: yes
 #           plugin_pagespeed_url: .user.website
+
+      - name: isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: header
+          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
