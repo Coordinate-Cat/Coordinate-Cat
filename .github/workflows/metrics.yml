@@ -70,8 +70,8 @@ jobs:
           filename: bottom.svg
           token: ${{ secrets.METRICS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          config_order: ""
+#           base: ""
+#           config_order: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_isocalendar: yes
