@@ -11,11 +11,11 @@ jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
-      - name: left metrics
+      - name: bigass metrics
         uses: lowlighter/metrics@latest
         with:
           # Output
-          filename: left.svg
+          filename: bigass.svg
           
           # Your GitHub token
           token: ${{ secrets.METRICS }}
@@ -41,25 +41,11 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-      
-      - name: right metrics
-        uses: lowlighter/metrics@latest
-        with:
-          # Output
-          filename: right.svg
-          
-          # Your GitHub token
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Options
-          base: header, activity, community, repositories, metadata
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Japan/Tokyo
-#           plugin_pagespeed: yes
-#           plugin_pagespeed_url: .user.website
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
@@ -77,6 +63,74 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 8
+          
+#       - name: left metrics
+#         uses: lowlighter/metrics@latest
+#         with:
+#           # Output
+#           filename: left.svg
+          
+#           # Your GitHub token
+#           token: ${{ secrets.METRICS }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+#           # Options
+#           user: Coordinate-Cat
+#           template: classic
+#           base: header, activity, community, repositories, metadata
+#           config_display: large
+#           config_padding: 0, 8 + 11%
+#           config_timezone: Asia/Tokyo
+#           plugin_followup: yes
+#           plugin_followup_sections: repositories
+#           plugin_anilist: yes
+#           plugin_anilist_medias: anime, manga
+#           plugin_anilist_sections: characters, watching, reading, favorites
+#           plugin_anilist_limit: 2
+#           plugin_anilist_shuffle: yes
+#           plugin_anilist_user: Ocat623
+#           plugin_anilist_limit_characters: 22
+#           plugin_achievements: yes
+#           plugin_achievements_display: compact
+#           plugin_achievements_secrets: yes
+#           plugin_achievements_threshold: C
+
+      
+#       - name: right metrics
+#         uses: lowlighter/metrics@latest
+#         with:
+#           # Output
+#           filename: right.svg
+          
+#           # Your GitHub token
+#           token: ${{ secrets.METRICS }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
+#           # Options
+#           base: header, activity, community, repositories, metadata
+#           plugin_habits: yes
+#           plugin_habits_facts: no
+#           plugin_habits_charts: yes
+#           config_timezone: Japan/Tokyo
+# #           plugin_pagespeed: yes
+# #           plugin_pagespeed_url: .user.website
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: half-year
+#           plugin_lines: yes
+#           plugin_topics: yes
+#           plugin_topics_limit: 0
+#           plugin_topics_mode: icons
+#           plugin_languages: yes
+#           plugin_languages_categories: markup, programming
+#           plugin_languages_colors: github
+#           plugin_languages_limit: 8
+#           plugin_languages_recent_categories: markup, programming
+#           plugin_languages_recent_days: 14
+#           plugin_languages_recent_load: 300
+#           plugin_languages_sections: most-used
+#           plugin_languages_threshold: 0%
+#           plugin_stars: yes
+#           plugin_stars_limit: 8
           
 #       - name: pagespeed
 #         uses: lowlighter/metrics@latest
