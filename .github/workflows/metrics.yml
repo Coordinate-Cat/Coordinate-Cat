@@ -26,7 +26,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_padding: 0, 8 + 11%
+          config_padding: 0, -10%
           config_timezone: Asia/Tokyo
 #           plugin_followup: yes
 #           plugin_followup_sections: repositories
