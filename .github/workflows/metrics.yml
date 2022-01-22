@@ -1,4 +1,4 @@
-name: left-metrics
+name: bigass metrics
 on:
   schedule:
     - cron: "0 18 * * 0"
