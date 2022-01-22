@@ -11,5 +11,5 @@
 <img align="left" width="50%" alt="🦑" src="/achievements.svg">
 <img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
 
-
-<img align="right" width="40%" alt="🦑" src="/toppng.com-satanic-ram-horn-png-goat-face-satan-613x695.png">
+<img align="left" width="390px" alt="🦑" src="/isocalendar.svg">
+<img align="right" width="390px" alt="🦑" src="/toppng.com-satanic-ram-horn-png-goat-face-satan-613x695.png">
