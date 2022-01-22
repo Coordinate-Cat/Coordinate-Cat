@@ -80,7 +80,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://route23.pages.dev/
+          plugin_pagespeed_url: .user.website
           
       - name: stars
         uses: lowlighter/metrics@latest
