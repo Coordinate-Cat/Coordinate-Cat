@@ -15,3 +15,6 @@
 <img align="right" width="40%" alt="🦑" src="/toppng.com-satanic-ram-horn-png-goat-face-satan-613x695.png">  
 
 <img width="100%" alt="🦑" src="/IMG_4568.jpg">
+
+## DIARY
+https://raw.githubusercontent.com/Coordinate-Cat/MY_F_LIFE_DIARY/main/2022-2-18.txt
