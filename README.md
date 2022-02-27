@@ -17,6 +17,7 @@
 <img width="100%" alt="🦑" src="/IMG_4568.jpg">
 
 ## DIARY
+- https://raw.githubusercontent.com/Coordinate-Cat/MY_F_LIFE_DIARY/main/2022-2-27.txt
 - https://raw.githubusercontent.com/Coordinate-Cat/MY_F_LIFE_DIARY/main/2022-2-25.txt
 - https://raw.githubusercontent.com/Coordinate-Cat/MY_F_LIFE_DIARY/main/2022-2-22.txt
 - https://raw.githubusercontent.com/Coordinate-Cat/MY_F_LIFE_DIARY/main/2022-2-19.txt
