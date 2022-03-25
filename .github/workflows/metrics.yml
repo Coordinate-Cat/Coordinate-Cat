@@ -44,6 +44,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_charts_type: chartist
 #           plugin_pagespeed: yes
 #           plugin_pagespeed_url: .user.website
 #           plugin_isocalendar: yes
