@@ -11,7 +11,7 @@
 <img align="left" width="50%" alt="🦑" src="/achievements.svg">
 <img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
 
-<img align="left" width="auto" alt="🦑" src="/bottom.svg">
-<img align="right" width="90%" alt="🦑" src="/nichijou-anime-brasil (1).gif">  
+<img align="left" width="40%" alt="🦑" src="/bottom.svg">
+<img align="right" width="70%" alt="🦑" src="/nichijou-anime-brasil (1).gif">  
 
 <img width="100%" alt="🦑" src="/IMG_4568.jpg">
