@@ -24,3 +24,9 @@
 </table>
 
 <!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
+<table>
+<tr>
+<td><img src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+</tr>
+</table>
