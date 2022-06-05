@@ -30,3 +30,9 @@
 <!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
 </tr>
 </table>
+
+<table>
+<tr>
+<td><img src="https://tryhackme-badges.s3.amazonaws.com/Ocat.png" alt="TryHackMe"></td>
+</tr>
+</table>
