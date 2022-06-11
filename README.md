@@ -1,3 +1,5 @@
+<details open>
+<summary></summary>
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table>
 <tr>
@@ -36,3 +38,4 @@
 <td><img src="https://tryhackme-badges.s3.amazonaws.com/Ocat.png" alt="TryHackMe"></td>
 </tr>
 </table>
+</details>
