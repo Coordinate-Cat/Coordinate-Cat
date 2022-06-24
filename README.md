@@ -33,9 +33,4 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td><img src="https://tryhackme-badges.s3.amazonaws.com/Ocat.png" alt="TryHackMe"></td>
-</tr>
-</table>
 </details>
