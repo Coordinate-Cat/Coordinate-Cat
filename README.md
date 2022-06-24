@@ -1,4 +1,4 @@
-<details open>
+<details>
 <summary></summary>
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table>
