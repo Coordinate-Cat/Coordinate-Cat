@@ -1,4 +1,4 @@
-<details>
+<details open>
 <summary></summary>
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table>
@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_300/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
+<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
 </tr>
 </table>
 
