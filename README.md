@@ -1,4 +1,5 @@
-> “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” ― Aaron Swartz
+<p align="center">“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</p>
+<p align="center">― Aaron Swartz -</p>
 
 <details open>
 <summary></summary>
