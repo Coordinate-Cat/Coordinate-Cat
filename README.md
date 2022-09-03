@@ -1,9 +1,5 @@
-<table width="2000">
-<td width="2000">
 <p align="center">“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</p>
 <p align="center">- Aaron Swartz -</p>
-</td>
-</table>
 
 <details>
 <summary></summary>
