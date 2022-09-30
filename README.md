@@ -2,7 +2,7 @@
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
 <details>
-<summary></summary>
+<summary>more</summary>
 <!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
 <table width="2000">
 <tr>
