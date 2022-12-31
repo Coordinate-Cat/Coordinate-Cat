@@ -50,6 +50,9 @@ jobs:
 #           plugin_isocalendar: yes
 #           plugin_isocalendar_duration: half-year
           plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 2
+          plugin_lines_history_limit: 1
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
