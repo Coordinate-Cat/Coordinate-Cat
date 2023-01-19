@@ -64,6 +64,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 8
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers
 
       - name: bottom
         uses: lowlighter/metrics@latest
