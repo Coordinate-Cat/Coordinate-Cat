@@ -44,5 +44,3 @@
 </table> -->
 
 </details>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Coordinate-Cat&repo=Coordinate-Cat&bg_color=0D1117&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
