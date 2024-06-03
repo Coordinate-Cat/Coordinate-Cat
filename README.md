@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-<td><img align="" width="" alt="🦑" src="/nichijou-anime-brasil (1).gif"></td>
+<td><img align="" width="" alt="🦑" src="/nichijou-anime.gif"></td>
 </tr>
 </table>
 
