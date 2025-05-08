@@ -25,7 +25,8 @@
 <table>
 <tr>
 <td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-<td><img align="" width="" alt="🦑" src="/asuka.gif"></td>
+<!-- <td><img align="" width="" alt="🦑" src="/asuka.gif"></td> -->
+<td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/4f78f67d-7e37-45c7-9a33-287d3f20a13a"></td>
 </tr>
 </table>
 
