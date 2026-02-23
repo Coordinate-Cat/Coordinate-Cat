@@ -3,7 +3,7 @@
 
 Side Projects
 
-- Unknown Browser (Private repo)
+- Untitled Browser (Private repo)
 - osint-tools-cli (Public repo)
 - dotfiles (Public repo)
 - log (Public repo)
